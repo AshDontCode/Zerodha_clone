@@ -6,7 +6,7 @@ import kailash from "../assets/people/Kailash.jpg";
 import nikhil from "../assets/people/Nikhil.jpg";
 import seema from "../assets/people/Seema.jpg";
 import venu from "../assets/people/Venu.jpg";
-import karthik from "../assets/people/Karthik.jpg";
+import karthik from "../assets/people/karthik.jpg";
 
 const teamMembers = [
   {
